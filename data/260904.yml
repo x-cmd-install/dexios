@@ -1,11 +1,13 @@
 about:
-  description: A secure file encryption utility, written in Rust.
+  description:
+  |
+    A secure file encryption utility, written in Rust.
   license: BSD-2-Clause
   homepage: https://brxken128.github.io/dexios/
   head: 5bb93ba
   archived: false
   latestVersion: v8.8.1
-  collectedAt: 2026-09-04T04:21:57Z
+  collectedAt: 2026-09-04T19:36:09Z
 timeline:
   created: 2022-05-01
   lastCommit: 2023-06-17
@@ -16,16 +18,24 @@ popularity:
   fork: 19
   release: 13
   contributor: 4
-  pullRequest: 60
+  pullRequest: 214
   issue: 72
 language:
   Rust: 236870
   Nix: 2173
   Dockerfile: 433
-totalLine: 239476
+totalBytes: 239476
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 0
     openIssue: 4
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 4
+    commit: 0
+total:
+  release: 13
+  mergedPR: 154
+  openPR: 5
+  closedIssue: 68
+  openIssue: 4
+  commit: 1618
+---
+---
+
