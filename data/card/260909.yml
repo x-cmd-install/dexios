@@ -7,7 +7,7 @@ about:
   latestVersion: "v8.8.1"
   latestRelease: "v8.8.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:12:16Z
+  collectedAt: 2026-09-09T20:50:53Z
 timeline:
   created: 2022-05-01
   lastCommit: 2023-06-17
@@ -85,7 +85,7 @@ total:
   commit: 1618
 ---
 path: /home/runner/.x-repo/github.com/brxken128/dexios
-collectedAt: 2026-09-09T06:12:18Z
+collectedAt: 2026-09-09T20:50:58Z
 loc:
   Rust:
     code: 5526
