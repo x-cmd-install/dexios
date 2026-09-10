@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: dexios-bin
+  binname: dexios-bin
+  visiblename: dexios-bin
+  version: 8.8.1
+  origversion: 8.8.1-2
+  status: unique
+  summary: Dexios is a fast, secure, and open source command-line encryption tool. It's written entirely in Rust and uses modern cryptographic AEADs (XChaCha20-Poly1305 + AES-256-GCM), with audited backends.
+  maintainers:
+    - alphazo@aur
+  licenses:
+    - BSD 2-Clause License
